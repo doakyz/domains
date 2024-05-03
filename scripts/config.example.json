@@ -15,8 +15,10 @@
 		"riot": 	"riot",
 		"steam": 	"steam",
 		"wsus": 	"windows",
-		"xboxlive": 	"windows"
-		"cloud": 	"generic"
+		"xboxlive": 	"windows",
+		"alma": 	"generic",
+		"debian": 	"generic",
+		"arch": 	"generic"
 
 	}
 }

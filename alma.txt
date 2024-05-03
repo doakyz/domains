@@ -1,0 +1,2 @@
+mirror.lchs.network
+mirror.internet.asn.au
