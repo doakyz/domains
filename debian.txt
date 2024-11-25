@@ -4,5 +4,3 @@ packages.deepin.com
 http.kali.org
 packages.linuxmint.com
 apt.pop-os.org
-archive.ubuntu.com
-ppa.launchpad.net
